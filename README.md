@@ -4,4 +4,4 @@ Integrating OpenStreetMap into a React app can be done using various libraries a
 
 By integrating OpenStreetMap into your React app, I create interactive maps that allow users to explore and interact with different locations and points of interest.
 
-The Projected is created by Reeturaj and submitted as assignment to MapUp.
+
